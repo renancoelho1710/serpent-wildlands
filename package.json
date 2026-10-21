@@ -1,0 +1,8 @@
+{
+  "name": "serpent-wildlands",
+  "private": true,
+  "version": "19.2.0",
+  "description": "Serpent Wildlands - jogo para navegador e celular",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
